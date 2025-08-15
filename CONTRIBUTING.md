@@ -9,6 +9,9 @@ Thank you for considering contributing to our project! We welcome contributions 
 4. Push to the branch (`git push origin feature/fooBar`).
 5. Open a pull request.
 
+## Coding Standards
+Please ensure that your code adheres to our coding standards before submitting a pull request. This helps maintain a consistent codebase across all contributions.
+
 ## Testing Your Changes
 Before submitting your pull request, please ensure that your changes are tested. You can run the tests by executing:
 
